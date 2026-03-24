@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 ```python
-class Youssef Mohamed:
+class Youssef_Mohamed:
     def __init__(self):
         self.role = "Junior Data Analyst & Student"
         self.education = "Bachelor of Computer Science and AI, Beni-Suef National University"
