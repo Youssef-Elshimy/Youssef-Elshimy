@@ -52,6 +52,14 @@ class Youssef_Mohamed:
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
+### ⚙️ Data Tools & Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
+</p>
+
 ### 🗄️ Databases & Query Languages
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -65,14 +73,6 @@ class Youssef_Mohamed:
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/>
-</p>
-
-### ⚙️ Data Tools & Workflow
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
